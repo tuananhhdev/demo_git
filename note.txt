@@ -18,6 +18,15 @@ git branch : list các branch hiện có
 git merge login : đưa code từ nhánh login về nhánh hiện tại 
 
 
++ Lấy source từ repo
+git clone ủrl . : clone source vào folder hiện tại 
+git pull : lấy code mới nhất từ remote
+
+
+git log : xem danh sách lệnh đã commit
+
+git stash : khôi phục code về lần commit gần nhất 
+
 
 // tạo 1 folder mới, setup git demo_buoi_1_js
 
