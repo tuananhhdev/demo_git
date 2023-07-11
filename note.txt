@@ -10,3 +10,13 @@ git push : lần 2 trở đi
 + setup account
 git config user.name "tuananh"
 git config user.email "tuananh@gmail.com"
+
+branch : nhánh
+git checkout -b login : tạo ra nhánh login từ nhánh hiện đại 
+git branch : list các branch hiện có
+
+
+// tạo 1 folder mới, setup git demo_buoi_1_js
+
+
+// push 2 lần : bài 1, bài 2
