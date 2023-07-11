@@ -1,0 +1,2 @@
+git init : khởi tạo repo local
+git remote add origin https://github.com/tuananhhdev/demo_git.git liên kết repo local và repo remote
