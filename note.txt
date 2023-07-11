@@ -15,6 +15,9 @@ branch : nhánh
 git checkout -b login : tạo ra nhánh login từ nhánh hiện đại 
 git branch : list các branch hiện có
 
+git merge login : đưa code từ nhánh login về nhánh hiện tại 
+
+
 
 // tạo 1 folder mới, setup git demo_buoi_1_js
 
